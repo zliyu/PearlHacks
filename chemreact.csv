@@ -1,0 +1,30 @@
+﻿id,name,elt,elt_en,upvote,downvote,views,d1,d2,d3
+0,R2CH=CHR2 + HCl -> RCH2CH(Cl)R,"Carbon, Hydrogen, Chlorine, Bromine, Alkene, Haloalkane","C, H, Cl, Br, =",0,0,0,Markovnikov’s rule,Regioselective and regiospecific,Rearrangement may occur
+1,R2CH=CHR2 + H2O + H2SO4 -> RCH2CH(OH)R,"Carbon, Hydrogen, Oxygen, Alkene, Alcohol","C, H , O, =, ROH",0,0,0,Markovnikov’s Rule,Not preferred as reaction is highly reversible,Low temperature and high concentration favor the formation of alcohol
+2,R2CH=CHR2 + Br2/Cl2 -> RCH(Br/Cl)CH(Br/Cl)R,"Carbon, Hydrogen, Chlorine, Bromine, Alkene, Haloalkane","C, H , Cl, Br, =",0,0,0,Bridge- Anti attack,Stereospecific reaction,Different stereochemistry depending on E/Z and symmetricity of alkene
+3,R2CH=CHR2 + Hg(OCOCH3)2 + NaBH4 -> RCH2CH(OH)R,"Carbon, Hydrogen, Oxygen, Mercury, Alkene, Mercury Acetate, Sodium, Boron","C, H , O, Hg, =, Na, B",0,0,0,Markovnikov’s rule,No rearrangement,Good method of preparing alcohol
+4,R2CH=CHR2 + RCOOH ->RH(COC)HR,"Carbon, Hydrogen, Oxygen, Epoxide, Carboxylic acid, alkene","C, H, O, COC, RCOOH, =",0,0,0,Stereospecific,Common reagent = mCPBA ,Epoxides are also called Oxiranes
+5,R2CH=CHR2 + Cl2 + H2O -> RH(COC)HR,"Carbon, Hydrogen, Oxygen, Epoxide, Alcohol, Alkene","C, H, O, COC, ROH, =",0,0,0,Internal SN2,"Cyclization of 1,2-halohydrins",
+6,R2CH=CHR2 + O3 + H2O/Zn -> RCOOR + RCOH,"Carbon, Hydrogen, Oxygen, Zinc, Ozone, Ozonolysis, Alkene","C, H, O, Zn, =",0,0,0,Intermediate formed is Ozonide,Oxidative cleavage of alkenes,
+7,R2CH=CHR2 + BH3 + THF -> R2CH2C(OH)R2,"Carbon, Hydrogen, Oxygen, THF, Boron, Alkene","C, H, O, B",0,0,0,Electrophilic addition,Anti Markovnikov,Regioselective and Stereoselective
+8,R2CH=CHR2 + OsO4 + CH3COOH + NaOH -> R2C(OH)=C(OH)R2,"Carbon, Hydrogen, Oxygen, Sodium, Osmium, Alkene","C, H, O, Na, Os, =",0,0,0,Dihydroxylation of alkenes,Formation of diol,Oxidation
+9,R2CH=CHR2 + ROH + H2SO4 -> RCOCR,"Carbon, Hydrogen, Sulphur, Oxygen, Alkene, Ester, Alchol","C, H, S, O, =, ROH",0,0,10,Preparation of ether,Markovnikov’s rule,
+10,R2CH=CHR2 + H2/Pd ->R2CHCHR2,"Carbon, Hydrogen, Palladium, Alkane, Alkene","C, H, Pd",0,0,0,Reduction,Preparation of Alkanes,
+11,R2CHCHR2 + Br2 + UV -> R2CHC(Br)R2 + HBr,"Carbon, Hydrogen, Bromine, UV, Alkane, Haloalkane","C, H, Br, UV",0,0,0,Substitution reaction,Mixed products,
+12,R2CHCHR2 + O2 -> CO2 + H2O,"Carbon, Hydrogen, Oxygen, Alkanes","C, H, O",0,0,0,Combustion,Can be partial or complete,
+13,R2CHCHR2 + H2O + Ni -> CO + H2,"Carbon, Hydrogen, Oxygen, Nickel","C, H, O, Ni",0,0,0,Water is present in the form of steam at 1273 K,Industrial preparation of dihydrogen gas,
+14,RCOONa + NaOH + CaO ->R2CHCHR2  + Na2CO3,"Carbon, Hydrogen, Sodium, Oxygen, Alkane","C, H, Na, O",0,0,0,Decarboxylation,Soda Lime (NaOH + CaO),
+15,R2CHCBrR2 + Dry ether + Na -> R2CHCHR2 + NaBr,"Carbon, Hydrogen, Ether, Sodium, Bromine, Alkane","C, H, O, Na, Br",0,0,0,Wurtz reaction,Alkanes containing even number of carbon atoms are formed,
+16,CaC2 + H2O -> HCCH + Ca(OH)2,"Carbon, Hydrogen, Calcium, Oxygen, Alkyne","C, H, Ca, O",0,0,0,Industrial scale preparation,Heating quick lime with coke will yield calcium carbide,
+17,RCH(Br)CH(Br)R + KOH+ ROH -> RCCR ,"Carbon, Hydrogen, Bromine, Alcohol, Alkyne, Oxygen","C, H, Br, O, ROH",0,0,0,Dehydrohalogenation,Sodamide is used,
+18,RCOOH + RSH -> RCOSR,"Carbon, Hydrogen, Sulphur, Oxygen, Carboxylic acid","C, H, S, O, RCOOH",0,0,0,,,
+19,RCOOH + RNH2 -> RCONR2,"Carbon, Hydrogen, Nitrogen, Oxygen, Carboxylic acid","C, N, O, H, RCOOH",0,0,0,,,
+20,RCOOH + SOCl2 -> RCOCl,"Carbon, Hydrogen, Sulphur, Oxygen, Carboxylic acid, Chlorine","C, H, S, O, RCOOH, Cl",0,0,0,,,
+21,RCOOH + RCOCl -> RCOOCOR,"Carbon, Hydrogen, Oxygen, Carboxylic acid, Chlorine","C, H, O, RCOOH, Cl",0,0,0,,,
+22,RCOOH + ROH -> RCOOR,"Carbon, Hydrogen, Oxygen, Carboxylic acid","C, H, O, RCOOH",0,0,0,,,
+23,RCOOH + NaOH + RI -> RCOOR,"Carbon, Hydrogen, Oxygen, Carboxylic acid, Iodine, Sodium","C, H, O, RCOOH, I, Na",0,0,0,,,
+24,RCOOH + CH2NH2 + ROR -> RCOOR,"Carbon, Hydrogen, Oxygen, Carboxylic acid, Nitrogen","C, H, O, RCOOH, N",0,0,0,,,
+25,RCOR + NaBH4 + PCC -> ROH,"Carbon, Hydrogen, Oxygen, Carboxylic acid, Sodium, Boron","C, H, O, RCOOH, Na, B",0,0,0,,,
+26,RCOR + RNH2 -> RNHR,"Carbon, Hydrogen, Oxygen, Carboxylic acid, Nitrogen","C, H, O, RCOOH, N",0,0,0,,,
+27,RCOR + RMgCl + H+ -> ROH,"Carbon, Hydrogen, Oxygen, Carboxylic acid, Magnesium, Chlorine","C, H, O, RCOOH, Mg, Cl",0,0,0,,,
+28,RCOR + NH2NH2 + NaOH -> RR,"Carbon, Hydrogen, Oxygen, Carboxylic acid, Nitorgen, Sodium","C, H, O, RCOOH, N, Na",0,0,5,,,
