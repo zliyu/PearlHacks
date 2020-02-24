@@ -468,8 +468,8 @@ function getres(){
 //write to id=res
 function write(){
     for(var i=0; i<res.length; i++){
-        var print = '<p><h5>'+data[i].name+'</h5><p>'+'<p>Upvote/Downvote:'+ data[i].upvote + '/' + data[i].downvote+ '</p>';
-        var button = '<p><button type="button" class="btn btn-outline-primary btn-sm" onclick="viewdetails('+i+')">View Details</button></p><hr>';
+        var print = '<p><h5>'+data[res[i]].name+'</h5><p>'+'<p>Upvote/Downvote:'+ data[res[i]].upvote + '/' + data[res[i]].downvote+ '</p>';
+        var button = '<p><button type="button" class="btn btn-outline-primary btn-sm" onclick="viewdetails('+res[i]+')">View Details</button></p><hr>';
         document.getElementById('res').innerHTML += (print + button);
     }
     
